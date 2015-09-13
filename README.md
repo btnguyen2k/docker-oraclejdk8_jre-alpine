@@ -12,10 +12,16 @@ by Thanh Nguyen <btnguyen2k@gmail.com>
 
 # History #
 
+2015-09-14: v0.1.1
+------------------
+
+- Make the image size smaller (124.7Mb)
+
+
 2015-09-13: v0.1.0
 ------------------
 
-First release
+- First release
 
 
 # License #
